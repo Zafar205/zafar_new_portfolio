@@ -11,7 +11,7 @@ export const DATA = {
     "A Software Engineer who loves building things and helping people. ",
   summary:
     "As a Full Stack Developer, I specialize in crafting seamless, end-to-end web solutions. With expertise in both front-end frameworks like React and back-end technologies such as Node.js, I create dynamic user experiences backed by efficient server logic. My focus is on building scalable, responsive applications that deliver a polished experience from interface to database, ensuring each project meets high standards of functionality and performance.",
-  avatarUrl: "/images.jfif",
+  avatarUrl: "/display_pic.JPG",
   skills: [
     "HTML",
     "CSS",

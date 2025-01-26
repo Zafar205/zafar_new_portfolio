@@ -30,12 +30,12 @@ export default function Page() {
                 text={DATA.description}
               />
             </div>
-            <BlurFade delay={BLUR_FADE_DELAY}>
+            {/* <BlurFade delay={BLUR_FADE_DELAY}>
               <Avatar className="size-28 border">
                 <AvatarImage alt={DATA.name} src={DATA.avatarUrl} />
                 <AvatarFallback>{DATA.initials}</AvatarFallback>
               </Avatar>
-            </BlurFade>
+            </BlurFade> */}
           </div>
         </div>
       </section>
@@ -48,6 +48,32 @@ export default function Page() {
             {DATA.summary}
           </Markdown>
         </BlurFade>
+      </section>
+       <section id="work">
+        <div className="flex min-h-0 flex-col gap-y-2">
+          <BlurFade delay={BLUR_FADE_DELAY * 5}>
+
+            <h2 className="text-xl font-bold text-white">Experience</h2>
+          </BlurFade>
+          {DATA.work1.map((work, id) => (
+            <BlurFade
+              key={work.company}
+              delay={BLUR_FADE_DELAY * 6 + id * 0.05}
+            >
+              <ResumeCard
+                key={work.company}
+                logoUrl={work.logoUrl}
+                altText={work.company}
+                title={work.company}
+                subtitle={work.title}
+                href={work.href}
+                badges={work.badges}
+                period={`${work.start} - ${work.end ?? "Present"}`}
+                description={work.description}
+              />
+            </BlurFade>
+          ))}
+        </div>
       </section>
        <section id="work">
         <div className="flex min-h-0 flex-col gap-y-2">

@@ -8,9 +8,9 @@ export const DATA = {
   location: "Karachi, Pakistan",
   locationLink: "https://www.google.com/maps/place/karachi",
   description:
-    "A Software Engineer who loves building things and helping people. ",
+    "An aspiring Full Stack Engineer with a passion for building innovative solutions and making a positive impact.",
   summary:
-    "As a Full Stack Developer, I specialize in crafting seamless, end-to-end web solutions. With expertise in both front-end frameworks like React and back-end technologies such as Node.js, I create dynamic user experiences backed by efficient server logic. My focus is on building scalable, responsive applications that deliver a polished experience from interface to database, ensuring each project meets high standards of functionality and performance.",
+    "As a Developer, I specialize in crafting seamless, end-to-end web solutions. With expertise in both front-end frameworks like React and back-end technologies such as Node.js, I create dynamic user experiences backed by efficient server logic. My focus is on building scalable, responsive applications that deliver a polished experience from interface to database, ensuring each project meets high standards of functionality and performance.",
   avatarUrl: "/display_pic.JPG",
   skills: [
     "HTML",
@@ -76,7 +76,17 @@ export const DATA = {
       },
     },
   },
-
+  work1: [    {
+    company: "Xeverse",
+    href: "https://xeverse.io",
+    badges: [],
+    location: "Karachi",
+    title: "Full Stack Intern",
+    logoUrl: "/obdco_logo.jpg",
+    start: "December 2024",
+    end: "Jan 2025",
+    description:
+      "As a Full Stack Intern at Xeverse, I used Next.js, React, and TypeScript to contribute to their web applications. My work included developing and improving features, fixing bugs, and ensuring the applications were functional and user-friendly. It was a great learning experience that helped me strengthen my skills in full-stack development."},],
   work: [
     {
       company: "Habib University",

@@ -81,7 +81,7 @@ export const DATA = {
     href: "https://xeverse.io",
     badges: [],
     location: "Karachi",
-    title: "Full Stack Intern",
+    title: "Frontend Intern",
     logoUrl: "/obdco_logo.jpg",
     start: "December 2024",
     end: "Jan 2025",

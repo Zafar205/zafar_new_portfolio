@@ -112,18 +112,18 @@ export const DATA = {
       description:
         "I was awarded a 100% scholarship by The Coding School, a program funded by Microsoft, AWS, and IBM, to participate in a one-year two-semester virtual program focused on quantum computing. This opportunity enables me to develop expertise in this cutting-edge field with the support of leading tech innovators.",
     },
-    {
-      company: "Government Dehli College",
-      href: "https://www.facebook.com/govdehlicollege/",
-      badges: [],
-      location: "Karacgi",
-      title: "Intermediate in Pre-Engineering",
-      logoUrl: "/dehlicollege.jfif",
-      start: "January 2021",
-      end: "August 2023",
-      description:
-        "I achieved 88.3% in my Intermediate exams, securing the top position in my college and ranking 20th among 25,000 pre-engineering students across Karachi. This accomplishment reflects my dedication to academic excellence in a highly competitive environment.",
-    },
+    // {
+    //   company: "Government Dehli College",
+    //   href: "https://www.facebook.com/govdehlicollege/",
+    //   badges: [],
+    //   location: "Karacgi",
+    //   title: "Intermediate in Pre-Engineering",
+    //   logoUrl: "/dehlicollege.jfif",
+    //   start: "January 2021",
+    //   end: "August 2023",
+    //   description:
+    //     "I achieved 88.3% in my Intermediate exams, securing the top position in my college and ranking 20th among 25,000 pre-engineering students across Karachi. This accomplishment reflects my dedication to academic excellence in a highly competitive environment.",
+    // },
     // {
     //   company: "Splunk",
     //   href: "https://splunk.com",

@@ -93,7 +93,7 @@ export const DATA = {
       href: "https://habib.edu.pk",
       badges: [],
       location: "Karachi",
-      title: "Bachelors in Computer Engineering",
+      title: "Bachelors in Computer Science",
       logoUrl: "/Habib-University.webp",
       start: "August 2023",
       end: "June 2027",

@@ -112,6 +112,18 @@ export const DATA = {
       description:
         "I was awarded a 100% scholarship by The Coding School, a program funded by Microsoft, AWS, and IBM, to participate in a one-year two-semester virtual program focused on quantum computing. This opportunity enables me to develop expertise in this cutting-edge field with the support of leading tech innovators.",
     },
+    {
+      company: "Mckinsey & Company",
+      badges: [],
+      href: "https://www.mckinsey.com/",
+      location: "Remote",
+      title: "Forward Program",
+      logoUrl: "/tcs1.jfif",
+      start: "April 2025",
+      end: "July 2025",
+      description:
+        "I was awarded a 100% scholarship by The Coding School, a program funded by Microsoft, AWS, and IBM, to participate in a one-year two-semester virtual program focused on quantum computing. This opportunity enables me to develop expertise in this cutting-edge field with the support of leading tech innovators.",
+    },
     // {
     //   company: "Government Dehli College",
     //   href: "https://www.facebook.com/govdehlicollege/",

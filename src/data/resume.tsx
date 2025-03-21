@@ -118,7 +118,7 @@ export const DATA = {
       href: "https://www.mckinsey.com/",
       location: "Remote",
       title: "Forward Program",
-      logoUrl: "/tcs1.jfif",
+      logoUrl: "/mccc.webp",
       start: "April 2025",
       end: "July 2025",
       description:

@@ -122,8 +122,7 @@ export const DATA = {
       start: "April 2025",
       end: "July 2025",
       description:
-        "I was awarded a 100% scholarship by The Coding School, a program funded by Microsoft, AWS, and IBM, to participate in a one-year two-semester virtual program focused on quantum computing. This opportunity enables me to develop expertise in this cutting-edge field with the support of leading tech innovators.",
-    },
+        "A career acceleration initiative focused on leadership, problem-solving, communication, and digital skills. Gained hands-on experience through real-world case studies and interactive learning, enhancing my ability to drive impact in professional settings." },
     // {
     //   company: "Government Dehli College",
     //   href: "https://www.facebook.com/govdehlicollege/",

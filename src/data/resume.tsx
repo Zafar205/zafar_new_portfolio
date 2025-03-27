@@ -265,6 +265,56 @@ export const DATA = {
       image: "/summarizer.png",
       video: "",
     },
+    {
+      title: "B-Trees Employee Management System",
+      href: "https://github.com/Zafar205/DSA_project_btrees_EMS",
+      dates: "Septmeber 2024",
+      active: true,
+      description:
+        "I developed an Employee Management System using Python, Django, and B-Trees to efficiently store and manage employee records. The system utilizes B-Trees for indexing, ensuring fast retrieval, insertion, and deletion of employee data. A Django-based web interface allows users to perform CRUD operations, search employees efficiently.
+        ,
+      technologies: [
+        "Django",
+        "Python"
+      ],
+      links: [
+
+        {
+          type: "Source",
+          href: "https://github.com/Zafar205/DSA_project_btrees_EMS",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/summarizer.png",
+      video: "",
+    },{
+      title: "64 bit",
+      href: "https://magenta-pasca-ab7512.netlify.app/",
+      dates: "July 2024",
+      active: true,
+      description:
+        "I developed an article summarizer that generates concise summaries from article links entered by the user. Utilizing the Article Summarizer API from RapidAPIs, the app efficiently extracts key points, making it easy for users to get insights quickly. I incorporated Redux Toolkit to manage global state, ensuring a smooth and consistent user experience across the application. This project exemplifies my skills in integrating external APIs and managing app state for optimized performance.",
+      technologies: [
+        "React",
+        "Tailwind",
+        "Redux toolkit"
+        
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://magenta-pasca-ab7512.netlify.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Zafar205/summarizer",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/summarizer.png",
+      video: "",
+    },
     // {
     //   title: "llm.report",
     //   href: "https://llm.report",

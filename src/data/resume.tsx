@@ -289,10 +289,10 @@ export const DATA = {
       video: "",
     },{
   "title": "64-bit & RISC-V Pipelining",
-  "href": "https://magenta-pasca-ab7512.netlify.app/",
-  "dates": "July 2024",
+  "href": "https://github.com/Zafar205",
+  "dates": "December 2024",
   "active": true,
-  "description": "I developed an article summarizer that generates concise summaries from article links entered by the user. Utilizing the Article Summarizer API from RapidAPIs, the app efficiently extracts key points, making it easy for users to get insights quickly. I incorporated Redux Toolkit to manage global state, ensuring a smooth and consistent user experience across the application. This project exemplifies my skills in integrating external APIs and managing app state for optimized performance.\n\nIn addition, I worked on a 5-stage pipelined RISC-V processor as part of my EE/CS 371L/330L Computer Architecture Lab Project at Habib University. This project involved transforming a single-cycle processor into a pipelined one, implementing pipeline registers (IF/ID, ID/EX, EX/MEM, MEM/WB), handling data hazards through forwarding and hazard detection units, and mitigating stalls with intelligent flushing mechanisms. Debugging the pipeline behavior deepened my understanding of performance optimization and processor design, reinforcing key concepts of computer architecture.",
+  "description": "I worked on a 5-stage pipelined RISC-V processor as part of my EE/CS 371L/330L Computer Architecture Lab Project at Habib University. This project involved transforming a single-cycle processor into a pipelined one, implementing pipeline registers (IF/ID, ID/EX, EX/MEM, MEM/WB), handling data hazards through forwarding and hazard detection units, and mitigating stalls with intelligent flushing mechanisms. Debugging the pipeline behavior deepened my understanding of performance optimization and processor design, reinforcing key concepts of computer architecture.",
   "technologies": [
     "React",
     "Tailwind",

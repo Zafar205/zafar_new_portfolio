@@ -288,33 +288,30 @@ export const DATA = {
       image: "/summarizer.png",
       video: "",
     },{
-      title: "64 bit",
-      href: "https://magenta-pasca-ab7512.netlify.app/",
-      dates: "July 2024",
-      active: true,
-      description:
-        "I developed an article summarizer that generates concise summaries from article links entered by the user. Utilizing the Article Summarizer API from RapidAPIs, the app efficiently extracts key points, making it easy for users to get insights quickly. I incorporated Redux Toolkit to manage global state, ensuring a smooth and consistent user experience across the application. This project exemplifies my skills in integrating external APIs and managing app state for optimized performance.",
-      technologies: [
-        "React",
-        "Tailwind",
-        "Redux toolkit"
-        
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://magenta-pasca-ab7512.netlify.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Zafar205/summarizer",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/summarizer.png",
-      video: "",
-    },
+  "title": "64-bit & RISC-V Pipelining",
+  "href": "https://magenta-pasca-ab7512.netlify.app/",
+  "dates": "July 2024",
+  "active": true,
+  "description": "I developed an article summarizer that generates concise summaries from article links entered by the user. Utilizing the Article Summarizer API from RapidAPIs, the app efficiently extracts key points, making it easy for users to get insights quickly. I incorporated Redux Toolkit to manage global state, ensuring a smooth and consistent user experience across the application. This project exemplifies my skills in integrating external APIs and managing app state for optimized performance.\n\nIn addition, I worked on a 5-stage pipelined RISC-V processor as part of my EE/CS 371L/330L Computer Architecture Lab Project at Habib University. This project involved transforming a single-cycle processor into a pipelined one, implementing pipeline registers (IF/ID, ID/EX, EX/MEM, MEM/WB), handling data hazards through forwarding and hazard detection units, and mitigating stalls with intelligent flushing mechanisms. Debugging the pipeline behavior deepened my understanding of performance optimization and processor design, reinforcing key concepts of computer architecture.",
+  "technologies": [
+    "React",
+    "Tailwind",
+    "Redux Toolkit",
+    "RISC-V",
+    "Computer Architecture",
+    "Pipeline Processing"
+  ],
+  "links": [
+    {
+      "type": "Source",
+      "href": "https://github.com/Zafar205",
+      "icon": "<Icons.github className='size-3' />"
+    }
+  ],
+  "image": "/summarizer.png",
+  "video": ""
+}
+
     // {
     //   title: "llm.report",
     //   href: "https://llm.report",

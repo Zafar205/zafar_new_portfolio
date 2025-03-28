@@ -305,7 +305,7 @@ export const DATA = {
     {
       "type": "Source",
       "href": "https://github.com/Zafar205",
-      "icon": "<Icons.github className='size-3' />"
+      "icon": <Icons.github className='size-3' />,
     }
   ],
   "image": "/summarizer.png",

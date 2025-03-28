@@ -285,7 +285,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/summarizer.png",
+      image: "/b-tree.png",
       video: "",
     },{
   "title": "64-bit & RISC-V Pipelining",

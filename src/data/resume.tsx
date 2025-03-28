@@ -271,8 +271,8 @@ export const DATA = {
       dates: "Septmeber 2024",
       active: true,
       description:
-        "I developed an Employee Management System using Python, Django, and B-Trees to efficiently store and manage employee records. The system utilizes B-Trees for indexing, ensuring fast retrieval, insertion, and deletion of employee data. A Django-based web interface allows users to perform CRUD operations, search employees efficiently.
-        ,
+        "I developed an Employee Management System using Python, Django, and B-Trees to efficiently store and manage employee records. The system utilizes B-Trees for indexing, ensuring fast retrieval, insertion, and deletion of employee data. A Django-based web interface allows users to perform CRUD operations, search employees efficiently."
+      ,
       technologies: [
         "Django",
         "Python"

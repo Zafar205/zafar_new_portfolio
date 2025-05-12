@@ -183,18 +183,18 @@ export default function Page() {
       </section> */}
      
       <section id="hackathons">
-        <div className="space-y-12 w-full py-12">
+        <div className="space-y-12 w-full py-12 text-white">
           <BlurFade delay={BLUR_FADE_DELAY * 13}>
-            <div className="flex flex-col items-center justify-center space-y-4 text-center">
-              <div className="space-y-2">
-                <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm">
+            <div className="flex flex-col items-center justify-center space-y-4 text-center text-white">
+              <div className="space-y-2 text-white">
+                <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm text-white">
                   Extracurriculars & Volunteering
                 </div>
               </div>
             </div>
           </BlurFade>
           <BlurFade delay={BLUR_FADE_DELAY * 14}>
-            <ul className="mb-4 ml-4 divide-y divide-dashed border-l">
+            <ul className="mb-4 ml-4 divide-y divide-dashed border-l text-white">
               {DATA.hackathons.map((project, id) => (
                 <BlurFade
                   key={project.title + project.dates}

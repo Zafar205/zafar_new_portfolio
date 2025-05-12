@@ -33,23 +33,23 @@ export function HackathonCard({
       </div>
       <div className="flex flex-1 flex-col justify-start gap-1">
         {dates && (
-          <time className="text-xs text-muted-foreground">{dates}</time>
+          <time className="text-xs text-muted-foreground text-white">{dates}</time>
         )}
-        <h2 className="font-semibold leading-none">{title}</h2>
+        <h2 className="font-semibold leading-none text-white">{title}</h2>
         {location && (
-          <p className="text-sm text-muted-foreground">{location}</p>
+          <p className="text-sm text-muted-foreground text-white">{location}</p>
         )}
         {description && (
-          <span className="prose dark:prose-invert text-sm text-muted-foreground">
+          <span className="prose dark:prose-invert text-sm text-muted-foreground text-white">
             {description}
           </span>
         )}
       </div>
       {links && links.length > 0 && (
-        <div className="mt-2 flex flex-row flex-wrap items-start gap-2">
+        <div className="mt-2 flex flex-row flex-wrap items-start gap-2 text-white">
           {links?.map((link, idx) => (
             <Link href={link.href} key={idx}>
-              <Badge key={idx} title={link.title} className="flex gap-2">
+              <Badge key={idx} title={link.title} className="flex gap-2 text-white">
                 {link.icon}
                 {link.title}
               </Badge>

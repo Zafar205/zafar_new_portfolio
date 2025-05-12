@@ -187,9 +187,9 @@ export default function Page() {
           <BlurFade delay={BLUR_FADE_DELAY * 13}>
             <div className="flex flex-col items-center justify-center space-y-4 text-center text-white">
               <div className="space-y-2 text-white">
-                <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm text-white">
-                  Extracurriculars
-                </div>
+          <BlurFade delay={BLUR_FADE_DELAY * 5}>
+            <h2 className="text-xl font-bold text-white">Education</h2>
+          </BlurFade>
               </div>
             </div>
           </BlurFade>

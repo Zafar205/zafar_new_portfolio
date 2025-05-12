@@ -377,24 +377,24 @@ export const DATA = {
   ],
   hackathons: [
     {
-      title: "Hack Western 5",
-      dates: "November 23rd - 25th, 2018",
-      location: "London, Ontario",
+      title: "Code in Place Mentor",
+      dates: "April-June , 2025",
+      location: "Remote",
       description:
-        "Developed a mobile application which delivered bedtime stories to children using augmented reality.",
+        "As a Code in Place 2025 Mentor, I support and inspire learners by providing guidance, feedback, and encouragement as they take their first steps into the world of computer science.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Seal_of_Leland_Stanford_Junior_University.svg",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     },
     {
-      title: "Hack The North",
-      dates: "September 14th - 16th, 2018",
-      location: "Waterloo, Ontario",
+      title: "Invent For the Planet 2025",
+      dates: "Feb, 2025",
+      location: "Karachi",
       description:
-        "Developed a mobile application which delivers university campus wide events in real time to all students.",
+        "As a IFTP 2025 participant, I collaborated on designing an innovative and sustainable housing solution to address global environmental challenges",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-the-north.png",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ee/Texas_A%26M_University_logo.svg",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     }

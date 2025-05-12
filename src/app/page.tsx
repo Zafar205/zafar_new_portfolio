@@ -188,7 +188,7 @@ export default function Page() {
             <div className="flex flex-col items-center justify-center space-y-4 text-center text-white">
               <div className="space-y-2 text-white">
                 <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm text-white">
-                  Extracurriculars & Volunteering
+                  Extracurriculars
                 </div>
               </div>
             </div>

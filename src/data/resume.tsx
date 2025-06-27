@@ -210,6 +210,32 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Car Inspection Site",
+      href: "https://carcheck.store",
+      dates: "June 2025",
+      active: true,
+      description: "A modern car inspection report platform using Next.js, designed to simplify the process of scheduling and managing vehicle checks. The site features a smooth and responsive user interface, allowing customers to easily get car inspection reports online. For seamless transactions, I integrated Paddle for secure and efficient payment processing. The platform also supports automated email notifications via Resend API, ensuring users receive instant confirmation and updates",
+      technologies: [
+        "Next.js",
+        "Paddle",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://carcheck.store",
+          icon: <Icons.globe className="size-3" />,
+        },{
+          type: "Source",
+          href: "https://github.com/Zafar205",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/notetaker.png",
+      video:
+        "",
+    },
+    {
       title: "AI notetaking app",
       href: "https://notetaker123.vercel.app",
       dates: "August 2024",

@@ -78,7 +78,8 @@ export const DATA = {
       },
     },
   },
-  work1: [    {
+  work1: [ 
+    {
     company: "Xeverse",
     href: "https://xeverse.io",
     badges: [],
@@ -88,7 +89,20 @@ export const DATA = {
     start: "December 2024",
     end: "Jan 2025",
     description:
-      "As a Full Stack Intern at Xeverse, I used Next.js, React, and TypeScript to contribute to their web applications. My work included developing and improving features, fixing bugs, and ensuring the applications were functional and user-friendly. It was a great learning experience that helped me strengthen my skills in full-stack development."},],
+      "As a Full Stack Intern at Xeverse, I used Next.js, React, and TypeScript to contribute to their web applications. My work included developing and improving features, fixing bugs, and ensuring the applications were functional and user-friendly. It was a great learning experience that helped me strengthen my skills in full-stack development."
+  },
+    {
+    company: "Habib University",
+    href: "https://habib.edu.pk",
+    badges: [],
+    location: "Karachi",
+    title: "Undergraduate Researcher",
+    logoUrl: "/Habib-University.webp",
+    start: "June 2025",
+    end: "August 2025",
+    description: "Creating a 4-patch microstrip antenna array with anti-jamming capabilities using null steering techniques as part of the “SUPARCO – Design and Development of Array Antenna” project under the Summer Tehqiq Research Programme at Habib University. Focused on optimizing radiation patterns, gain, and directionality for satellite and space communication systems, leveraging RF engineering and electromagnetic wave propagation principles. Collaborated with a multidisciplinary team and received mentorship from faculty and experts from Pakistan’s national space agency to align the research with real-world aerospace and defense applications."
+ },
+         ],
   work: [
     {
       company: "Habib University",

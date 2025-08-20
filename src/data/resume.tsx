@@ -85,7 +85,7 @@ export const DATA = {
     badges: [],
     location: "Karachi",
     title: "Software Engineer Intern",
-    logoUrl: "/obdco_logo.jpg",
+    logoUrl: "/1tensolutions_logo.jfif",
     start: "July 2025",
     end: "Sempter 2025",
     description:
